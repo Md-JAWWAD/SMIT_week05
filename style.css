@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.centre{
+    color: aqua;
+    background-color: brown;
+    border: 1px solid black;
+}
+table{
+  display: flex;    
+  justify-content: center;
+  border-collapse: collapse;
+}
+
+th, td{
+    width: 100px;
+    height: 60px;
+    border: 1px solid black;
+} 
